@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/azulBackground</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">#100B5A</item>
+    </style>
+
+    153
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">11sp</item>
+
+    </style>
+
+    <style name="SearchViewStyle">
+
+        <item name="android:iconTint">@color/colorAccent</item>
+        <item name="queryBackground">@color/branco</item>
+    </style>
+
+</resources>
